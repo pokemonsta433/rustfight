@@ -1,0 +1,9 @@
+moth_girl:
+  idle: moth_girl_idle
+  walk: moth_girl_idle
+  crouch: moth_girl_crouch
+  jumpsquat: moth_girl_idle
+  air: moth_girl_idle
+
+mushroom_girl:
+  idle: mushroom_girl_idle
